@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: whitesmoke;
+}
+#project {
+  background-color: whitesmoke;
+}
+#contact {
+  background-color: whitesmoke;
+}
+img {
+  height: 200px;
+}
+footer {
+  background-color: rosybrown;
+}
+section {
+  padding-top: 5rem;
+}
